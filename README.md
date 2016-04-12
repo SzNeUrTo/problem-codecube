@@ -1,2 +1,4 @@
 # problem-codecube
-[C++] problems in codecube.in.th
+Username : ZugarZeeker
+
+[C++] problems in [CodeCube](https://www.codecube.in.th/)
